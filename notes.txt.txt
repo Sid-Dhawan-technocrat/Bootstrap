@@ -1,0 +1,12 @@
+Cascading style sheets
+
+3 ways to define CSS
+
+1.inline-style="color:white;background-color:tomato;font-size:24px;font-family:cursive";
+>style attribute using inside html
+
+2.Internal styling
+
+
+3.External CSS -<link> element to link external css file
+<link rel="stylesheet" href="index.css"/>
